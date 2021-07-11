@@ -12,7 +12,7 @@ import javax.swing.border.BevelBorder;
 
 /**
  *
- * @author Matilda
+ * @author Sanele
  * 
  * 
  */
