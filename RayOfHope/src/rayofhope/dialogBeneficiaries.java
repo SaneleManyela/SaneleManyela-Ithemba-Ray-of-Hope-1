@@ -9,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Matilda
+ * @author Sanele
  */
 public class dialogBeneficiaries extends javax.swing.JDialog {
 
