@@ -7,7 +7,7 @@ package rayofhope;
 
 /**
  *
- * @author Matilda
+ * @author Sanele
  */
 public class RayOfHope {
 
