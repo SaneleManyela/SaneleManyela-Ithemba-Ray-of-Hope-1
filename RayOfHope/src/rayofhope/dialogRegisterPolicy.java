@@ -12,7 +12,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Matilda
+ * @author Sanele
  */
 public class dialogRegisterPolicy extends JDialog {
 
