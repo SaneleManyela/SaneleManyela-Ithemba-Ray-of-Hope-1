@@ -9,7 +9,7 @@ import java.awt.*;
 import javax.swing.*;
 /**
  *
- * @author Matilda
+ * @author Sanele
  * 
  * 
  */
