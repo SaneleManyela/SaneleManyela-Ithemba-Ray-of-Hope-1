@@ -13,7 +13,7 @@ import javax.swing.border.EmptyBorder;
 
 /**
  *
- * @author Matilda
+ * @author Sanele
  * 
  */
 public class clsPolicyMemberOperations extends JDialog{
