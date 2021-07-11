@@ -12,7 +12,7 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Matilda
+ * @author Sanele
  * 
  *  
  */
