@@ -10,7 +10,7 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Matilda
+ * @author Sanele
  */
 public class clsDatabaseMethods {
     
