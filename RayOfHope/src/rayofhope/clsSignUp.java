@@ -12,7 +12,7 @@ import javax.swing.border.EmptyBorder;
 
 /**
  *
- * @author Matilda
+ * @author Sanele
  */
 public class clsSignUp extends JDialog{
     public clsSignUp(JFrame frmParent, String stUserAction) {
